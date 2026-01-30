@@ -1,0 +1,8 @@
+
+{
+  "name": "BillDigitize AI",
+  "description": "A sophisticated AI-powered invoice digitization platform that extracts structured data from bill images using local OCR and Gemini AI for intelligent parsing and categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
